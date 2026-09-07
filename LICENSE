@@ -1,0 +1,54 @@
+Ai Chat Explorer Proprietary Software License v1.0
+Copyright (c) 2026 Wzzz603. All rights reserved.
+
+IMPORTANT: READ THIS LICENSE BEFORE INSTALLING, COPYING, OR USING AI CHAT EXPLORER.
+
+1. Ownership
+Ai Chat Explorer, including its source code, scripts, user interface, documentation, branding, and other original materials (the "Software"), is owned by Wzzz603 and is protected by applicable copyright and other intellectual-property laws. Except for the limited rights expressly granted below, no rights are transferred to you.
+
+2. Limited License to Use
+Subject to this License, Wzzz603 grants you a personal, non-exclusive, non-transferable, revocable license to download, install, and use unmodified copies of the Software for ordinary personal use or internal use within your own organization.
+
+You may make reasonable backup copies solely to preserve your permitted installation.
+
+3. Restrictions
+Unless you have prior written permission from Wzzz603, you may not:
+(a) modify, adapt, translate, alter, or create derivative works of the Software;
+(b) redistribute, republish, mirror, upload, sublicense, lease, rent, sell, transfer, or otherwise provide copies of the Software or its source code to third parties, except through functionality expressly provided by the authorized distribution platform;
+(c) repackage or publish the Software, a modified version, or a substantially similar derivative as your own browser extension, software product, repository, download, or service;
+(d) sell access to the Software, bundle it as a paid product, or commercially exploit the Software itself;
+(e) remove, obscure, or alter copyright, attribution, trademark, authorship, or license notices;
+(f) use the Software or its source code to create or distribute a competing or replacement product derived substantially from the Software; or
+(g) reverse engineer, decompile, or circumvent technical restrictions, except to the limited extent such restriction is prohibited by applicable law.
+
+For clarity, this License does not prohibit ordinary use of the Software in a workplace or commercial organization. It prohibits commercial exploitation, redistribution, modification, or resale of the Software itself without permission.
+
+4. GitHub Public Repository Notice
+If the Software is published in a public GitHub repository, GitHub's Terms of Service may permit users to view and fork public repository content through GitHub functionality. Those platform-specific permissions do not grant any broader license to modify, redistribute, republish, sell, sublicense, or commercially exploit the Software outside the rights expressly stated in this License.
+
+5. Authorized Distribution
+Official copies may be distributed by Wzzz603 through authorized channels, including the Chrome Web Store and the official GitHub repository. Availability through an authorized channel does not grant downstream redistribution rights.
+
+6. Third-Party Services and Marks
+Ai Chat Explorer is an independently developed third-party browser extension. It is not affiliated with, sponsored by, or endorsed by OpenAI. OpenAI, ChatGPT, Chrome, GitHub, and other third-party names, marks, products, and services are the property of their respective owners and are subject to their own terms and policies.
+
+7. Updates and Compatibility
+The Software may depend on third-party websites, interfaces, or internal APIs that can change without notice. Wzzz603 does not guarantee uninterrupted compatibility, availability, or continued operation with any third-party service.
+
+8. Disclaimer of Warranty
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY, RELIABILITY, OR AVAILABILITY.
+
+9. Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, WZZZ603 SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR LOSS OF DATA, PROFITS, BUSINESS, OR USE, ARISING FROM OR RELATED TO THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+10. Termination
+This License terminates automatically if you materially violate its terms. Upon termination, you must stop using and distributing any copies that are not independently authorized by Wzzz603, subject to rights that applicable law does not permit to be waived.
+
+11. No Implied Rights
+All rights not expressly granted in this License are reserved by Wzzz603. Public availability of source code does not, by itself, grant an open-source license or permission beyond this License.
+
+12. Permission Requests
+Requests for permissions beyond this License should be directed to the project owner through the official GitHub profile:
+https://github.com/wzzz603
+
+This License is intended as a proprietary software license and is not an OSI-approved open-source license.
