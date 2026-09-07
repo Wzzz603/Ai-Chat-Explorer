@@ -3,6 +3,12 @@
   "name": "Ai Chat Explorer",
   "version": "1.0",
   "description": "An efficient Explorer-style manager for ChatGPT conversations, developed by Wzzz603.",
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
   "permissions": [
     "storage"
   ],
@@ -24,16 +30,5 @@
   "background": {
     "service_worker": "background.js"
   },
-  "homepage_url": "https://github.com/wzzz603",
-  "web_accessible_resources": [
-    {
-      "resources": [
-        "LICENSE",
-        "PRIVACY.md"
-      ],
-      "matches": [
-        "https://chatgpt.com/*"
-      ]
-    }
-  ]
+  "homepage_url": "https://github.com/Wzzz603/Ai-Chat-Explorer"
 }
