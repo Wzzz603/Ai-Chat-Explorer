@@ -3,6 +3,11 @@
 **Ai Chat Explorer 1.0** is a browser extension for the ChatGPT web app that provides an Explorer-style way to organize large numbers of chats and Projects.  
 **Ai Chat Explorer 1.0** 是一个面向 ChatGPT 网页端的浏览器扩展，为大量聊天和 Project 提供更接近文件资源管理器的组织方式。
 
+**Ai Chat Explorer is now available on the Chrome Web Store. You can install it directly from the link below.**  
+**Ai Chat Explorer 现已上架 Chrome 网上应用店，你可以通过下方链接直接安装。**
+
+[**Download from Chrome Web Store / 从 Chrome 网上应用店下载**](https://chromewebstore.google.com/detail/ai-chat-explorer/mnellkneieeadpbhnenejepgdfdjbfpl)
+
 <img width="2880" height="1430" alt="main" src="https://github.com/user-attachments/assets/9429778a-0a47-4996-be50-bca4bf611671" />
 
 
